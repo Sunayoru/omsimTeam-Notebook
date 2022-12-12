@@ -1,4 +1,3 @@
-#longest common substring
 def lcsubstring(X: str, Y: str,
                    m: int, n: int):
     LCSuff = [[0 for i in range(n + 1)]
