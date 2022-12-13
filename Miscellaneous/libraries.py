@@ -17,3 +17,11 @@ cos(); sin(); tan() #for trig
 facotiral()
 log()
 log10()
+
+#bitwise
+& #bitwise AND
+| #bitwise OR
+~ #bitwise NOT
+^ #bitwise XOR
+>> #bitwise right shift
+<< #bitwise left shift
